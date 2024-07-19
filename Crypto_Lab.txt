@@ -1,1 +1,9 @@
 Crypto Lab
+
+Lab 1:
+1. Caeser Cipher
+2. Vignere Cipher
+3. Playfair Cipher
+4. Hill Cipher
+5. Row column Cipher
+6. Rail fence Cipher
