@@ -34,5 +34,6 @@ def DecryptSubstitution(cipher, key):
 
 plaintext = input("Enter PlainText: ")
 key = int(input("Enter Key: "))
+
 ciphertext = Substitution(plaintext.upper(),key)
 DecryptSubstitution(ciphertext,key)

@@ -15,7 +15,7 @@ def encrypt_rail_fence(text, key):
 
     ciphertext = ''.join(''.join(row) for row in rail)
     return ciphertext
-
+ 
 def decrypt_rail_fence(ciphertext, key):
     """Decrypts the given ciphertext using the Rail Fence Cipher with the specified key."""
 
